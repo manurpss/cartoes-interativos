@@ -1,5 +1,5 @@
 ﻿📇 Projeto: Cartões Interativos
-Este projeto consiste na criação de cartões digitais e interativos, desenvolvidos com foco em design moderno e funcionalidade. Ideal para portfólios, convites ou cartões de visita digitais, utilizei no tema dO anime chamado "Demon Slayer" com tres personagens da trama.
+Este projeto consiste na criação de cartões digitais e interativos, desenvolvidos com foco em design moderno e funcionalidade. Ideal para portfólios, convites ou cartões de visita digitais, utilizei no tema do anime chamado "Demon Slayer" com tres personagens da trama.
 
 🚀 Tecnologias Utilizadas
 HTML: Estruturação do conteúdo.
